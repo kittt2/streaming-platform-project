@@ -29,7 +29,7 @@ Follow these steps to get the project up and running on your local machine.
 
 1. **Clone the Repository**:
     ```bash
-    git clone https://github.com/your-username/stream.git
+    git clone https://github.com/kittt2/streaming-platform-project.git
     ```
 
 2. **Navigate to the Project Directory**:
